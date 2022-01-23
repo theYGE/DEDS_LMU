@@ -16,7 +16,9 @@ The code is structured into three parts:
 2. K-anonimity focuses on anonymizing dataset using k-anonimity 
 3. L-diversity builds on top of k-anonimity to reach the maximum possible value of 4-anonimity in a dataset
 
-Project was developed by:
+Please, refer to the respective project report for further details.
+
+# Project was developed by:
 Selen Erkan - erkan.selen@campus.lmu.de
 Ozgecan Gumusbas - ozgecan.gumusbas@campus.lmu.de
 Oleksandr Makarevych - o.makarevych@campus.lmu.de
