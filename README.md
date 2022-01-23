@@ -18,7 +18,9 @@ The code is structured into three parts:
 
 Please, refer to the respective project report for further details.
 
-# Project was developed by:
+## Please Note: Some of the transformations applied are not idempotent, so the concrete values might differ a bit. However, the overall results reached are the same.
+
+### Project was developed by:
 Selen Erkan - erkan.selen@campus.lmu.de
 Ozgecan Gumusbas - ozgecan.gumusbas@campus.lmu.de
 Oleksandr Makarevych - o.makarevych@campus.lmu.de
